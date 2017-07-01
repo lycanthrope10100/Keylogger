@@ -1,0 +1,5 @@
+*.layout
+*.cbp
+*.depend
+Keylogger/bin
+Keylogger/obj
